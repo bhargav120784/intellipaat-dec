@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ihello this is file1
 =======
 hi this is file1 of app2
 >>>>>>> af1d60b (1st commit)
+=======
+ this is file1 of app1
+>>>>>>> 5fec8c2 (1st commit)
